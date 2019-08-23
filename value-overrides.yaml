@@ -1,0 +1,5 @@
+global:
+  email: user@abc.com
+  domain: domain-name
+  gcpProject: gcp_project
+  dnsServiceAccount: "dns-services-account-name"
